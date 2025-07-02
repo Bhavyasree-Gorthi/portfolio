@@ -20,6 +20,6 @@ https://portfoliowebsite23.netlify.app/
 
 Installation
 
-1. Clone the repository: git clone https://github.com/your-username/portfolio-app.git
+1. Clone the repository: git clone https://github.com/Bhavyasree-Gorthi/portfolio
 2. Install dependencies: npm install
 3. Run the app: npm start
